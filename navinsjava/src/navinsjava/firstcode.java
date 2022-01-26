@@ -4,7 +4,7 @@ public class firstcode {
 	public static void main(String[]args) {
 int age = 5;
 double height = 5.5;
-String name = ("bhargv");
+String name = ("bhargvmphasis");
 char grade = ('o');
 boolean ispresent = true;
 
